@@ -1,1 +1,1 @@
-# code_plagiat_checker
+# code_plagiarism_checker
